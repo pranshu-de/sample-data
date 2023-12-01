@@ -1,6 +1,6 @@
 id,parentId,name,BO,position,image
 100,,Tata Group,Natarajan Chandrasekaran,MD/ CEO,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tata_logo.svg/1200px-Tata_logo.svg.png
-101,100,Tata Steel,T. V. Narendran,MD/ CEO,https://iconape.com/wp-content/png_logo_vector/tata-steel-logo.png
+101,100,Tata Steel,T. V. Narendran,MD/ CEO,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tata_Steel_Logo.svg/2560px-Tata_Steel_Logo.svg.png
 102,100,Tata Motors,Marc Llistosella,MD/ CEO,https://iconape.com/wp-content/png_logo_vector/tata-motors.png
 103,100,Tata Consultancy Services (TCS),K. Krithivasan,MD/ CEO,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/1280px-Tata_Consultancy_Services_Logo.svg.png
 104,100,Tata Power,Praveer Sinha,MD/ CEO,https://upload.wikimedia.org/wikipedia/commons/3/32/Tata_Power_Logo.png
